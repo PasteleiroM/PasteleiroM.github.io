@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  .image {
+    min-height: 100vh;
+    background-image: url('ksante.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px;
+  }
+  
+  .content {
+    background: white;
+   padding-bottom: 30px;
+   padding-top: 30px;
+    border-radius: 3px;
+    text-align: center;
+    margin-top: 170px;
+    margin-left: 420px;
+    margin-right: 420px;
+  }
+
+
+#form {
+    background-color: white;
+    border-radius: 5px;
+    width: 300px;
+    height: 30px;
+    border: none;
+    
+}
+
+
+
+h1 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#botao {
+    background-color: blueviolet;
+    border-radius: 7px;
+    height: 50px;
+    width: 300px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: large;
+}
