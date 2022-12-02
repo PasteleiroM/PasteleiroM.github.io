@@ -1,0 +1,45 @@
+body {
+    width: 70%;
+    margin: auto;
+}
+
+#body {
+    background-color: #cde7b0;
+   text-align: center;
+}
+
+#header {
+    background-color: #a3bfa8;
+    padding-top: 0.1%;
+    padding-bottom: 0.1%;
+}
+
+#header h1 {
+    font-family: 'Permanent Marker', cursive;
+    padding-left: 5%;
+	color: #59594a;
+}
+
+#header h2 {
+	font-family: 'Permanent Marker', cursive;
+padding-left: 7%;
+	color: #4e4e41;
+}
+
+#input {
+    height: 200px;
+    width: 85%;
+    
+}
+
+button {
+	margin: 5px;
+padding: 5px;
+	background-color: #be6e46;
+border-radius: 15px;
+font-family: 'Permanent Marker', cursive;
+}
+
+.botoes{
+	padding-left: 35%;
+}
